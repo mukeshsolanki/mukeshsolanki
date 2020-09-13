@@ -7,4 +7,4 @@
 - ⚡ Contribuing to a whole bunch of opensource projects.
 - 🌱 Experimenting with #Flutter.
 
-<img src="https://github-readme-stats.vercel.app/api?username=mukeshsolanki&&show_icons=true&title_color=FFFF00&icon_color=FF000&text_color=daf7dc&bg_color=151515" />
+[![Mukesh's github stats](https://github-readme-stats.vercel.app/api?username=mukeshsolanki&hide=contribs&count_private=true&show_icons=true)](https://github.com/mukeshsolanki/github-readme-stats)
