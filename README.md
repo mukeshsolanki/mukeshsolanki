@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <p align="center">
-I'm currently working at <a href="https://kamivision.com">Kami Vision</a> 🏡💻</br/>
+I'm currently working at <a href="http://ssup.co">Super Share</a> 🏡💻</br/>
 Contribuing to a whole bunch of opensource projects. ⚡<br/>
 Always experimenting with bleading edge tech. 🌱<br/><br/>
  <a href="https://github.com/mukeshsolanki/"><img alt="Mukesh Solanki's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=mukeshsolanki&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
