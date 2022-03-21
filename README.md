@@ -14,8 +14,4 @@ Always experimenting with bleading edge tech. 🌱<br/><br/>
 <p align="center">
   <a href="https://mukehsolanki.com"><img alt="Website" title="Website" src="https://img.shields.io/badge/-website-D1A104?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/mukeshsolanki/"><img alt="Linked In" title="Linked In" src="https://img.shields.io/badge/-linked%20in-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://paypal.me/mukeshsolanki"><img alt="PayPal" title="Paypal" src="https://img.shields.io/badge/-Support-FF5E5B?style=for-the-badge&logo=paypal&logoColor=white"/></a>
-  <a href="https://twitter.com/themickyvirus"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://twitter.com/themickyvirus"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<!--   <a href="https://dev.to/mukeshsolanki"><img alt="Dev.to" title="Dev.to" src="https://img.shields.io/badge/DEV.TO-3835D3.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a> -->
 </p>
