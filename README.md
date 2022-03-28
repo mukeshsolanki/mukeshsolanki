@@ -1,17 +1,25 @@
-<h3 align="center">
-  Welcome to Mukesh Solanki's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+# Hi, I'm Mukesh Solanki! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/mukeshsolanki)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.mukeshsolanki.com/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/_mukeshsolanki_)
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=Medium&logoColor=white)](https://medium.com/@themukeshsolanki)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=%23F77B93&size=25&height=40&lines=Nice+to+meet+you!;I'm+a+Software+Engineer;Tech+Blogger)](https://git.io/typing-svg)
+
+## About Me <img src="https://c.tenor.com/uZFq07-ujK8AAAAi/man-shrugging-joypixels.gif" width="28"/>
+* 💻 I'm currently working at <a href="http://ssup.co">Super Share</a> 
+* ⚡ Contribuing to a whole bunch of <a href="http://github.com/mukeshsolanki">opensource</a> projects.
+* 🖨️ I write tech articles almost every week on <a href="https://medium.com/@themukeshsolanki">Medium</a>. 
+* 🌱 Always experimenting with bleading edge tech. 
+* ⛰️ Love exploring and going on hikes
 <p align="center">
-I'm currently working at <a href="http://ssup.co">Super Share</a> 🏡💻</br/>
-Contribuing to a whole bunch of opensource projects. ⚡<br/>
-Always experimenting with bleading edge tech. 🌱<br/><br/>
+
+## Latest Blog Posts <img src="https://c.tenor.com/lZE8tZGKLQ4AAAAi/saturn-v-space.gif" width="28"/>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+## Github Stats <img src="https://c.tenor.com/ZULdaf8iCHgAAAAi/100-discord.gif" width="28"/>
+  
  <a href="https://github.com/mukeshsolanki/"><img alt="Mukesh Solanki's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=mukeshsolanki&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
   <a href="https://github.com/mukeshsolanki"><img alt="Mukesh Solanki's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukeshsolanki&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=javascript,html,scss" height="192px"/></a>
-</p>
-
-## 🙋‍♂️ Connect with me
-<p align="center">
-  <a href="https://mukehsolanki.com"><img alt="Website" title="Website" src="https://img.shields.io/badge/-website-D1A104?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/mukeshsolanki/"><img alt="Linked In" title="Linked In" src="https://img.shields.io/badge/-linked%20in-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
