@@ -16,7 +16,7 @@
 
 ## Latest Blog Posts <img src="https://c.tenor.com/lZE8tZGKLQ4AAAAi/saturn-v-space.gif" width="28"/>
 <!-- BLOG-POST-LIST:START -->
-- [How to prevent hackers from reverse engineering your android apps?](https://proandroiddev.com/how-to-prevent-hackers-from-reverse-engineering-your-android-apps-2981661ab1c2?source=rss-a958e8ec15c0------2)
+- [How to prevent hackers from reverse engineering your Android apps](https://proandroiddev.com/how-to-prevent-hackers-from-reverse-engineering-your-android-apps-2981661ab1c2?source=rss-a958e8ec15c0------2)
 - [What to choose Realm or SQLite with Room?](https://medium.com/@TheMukeshSolanki/what-to-choose-realm-or-sqlite-with-room-e55c34b1675c?source=rss-a958e8ec15c0------2)
 - [A Note To All The New Developers](https://medium.com/@TheMukeshSolanki/a-note-to-all-the-new-developers-fbc3a51aeaf7?source=rss-a958e8ec15c0------2)
 - [How to make a splash screen like Youtube on Android?](https://medium.com/@TheMukeshSolanki/how-to-make-a-splash-screen-like-youtube-on-android-5809c9975bbb?source=rss-a958e8ec15c0------2)
