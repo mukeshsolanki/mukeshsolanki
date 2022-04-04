@@ -16,11 +16,11 @@
 
 ## Latest Blog Posts <img src="https://c.tenor.com/lZE8tZGKLQ4AAAAi/saturn-v-space.gif" width="28"/>
 <!-- BLOG-POST-LIST:START -->
+- [Gracefully handling Android app crashes](https://proandroiddev.com/gracefully-handling-android-app-crashes-479c275e1545?source=rss-a958e8ec15c0------2)
 - [How to prevent hackers from reverse engineering your Android apps](https://proandroiddev.com/how-to-prevent-hackers-from-reverse-engineering-your-android-apps-2981661ab1c2?source=rss-a958e8ec15c0------2)
 - [What to choose Realm or SQLite with Room?](https://itnext.io/what-to-choose-realm-or-sqlite-with-room-e55c34b1675c?source=rss-a958e8ec15c0------2)
 - [A Note To All The New Developers](https://medium.com/@TheMukeshSolanki/a-note-to-all-the-new-developers-fbc3a51aeaf7?source=rss-a958e8ec15c0------2)
 - [How to make a splash screen like Youtube on Android?](https://medium.com/@TheMukeshSolanki/how-to-make-a-splash-screen-like-youtube-on-android-5809c9975bbb?source=rss-a958e8ec15c0------2)
-- [What do I think about Google Stadia?](https://medium.com/android-news/what-do-i-think-about-google-stadia-a042aaad12a0?source=rss-a958e8ec15c0------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Github Stats <img src="https://c.tenor.com/ZULdaf8iCHgAAAAi/100-discord.gif" width="28"/>
