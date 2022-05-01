@@ -16,8 +16,8 @@
 
 ## Latest Blog Posts <img src="https://c.tenor.com/lZE8tZGKLQ4AAAAi/saturn-v-space.gif" width="28"/>
 <!-- BLOG-POST-LIST:START -->
-- [LiveData, Flow, StateFlow and SharedFlow?](https://medium.com/@TheMukeshSolanki/livedata-flow-stateflow-and-sharedflow-f42eaad23431?source=rss-a958e8ec15c0------2)
-- [My Setup for Android Development](https://medium.com/@TheMukeshSolanki/my-setup-for-android-development-70cf0603013e?source=rss-a958e8ec15c0------2)
+- [LiveData, Flow, StateFlow and SharedFlow?](https://themukeshsolanki.medium.com/livedata-flow-stateflow-and-sharedflow-f42eaad23431?source=rss-a958e8ec15c0------2)
+- [My Setup for Android Development](https://themukeshsolanki.medium.com/my-setup-for-android-development-70cf0603013e?source=rss-a958e8ec15c0------2)
 - [Gracefully handling Android app crashes](https://proandroiddev.com/gracefully-handling-android-app-crashes-479c275e1545?source=rss-a958e8ec15c0------2)
 - [How to prevent hackers from reverse engineering your Android apps](https://proandroiddev.com/how-to-prevent-hackers-from-reverse-engineering-your-android-apps-2981661ab1c2?source=rss-a958e8ec15c0------2)
 - [What to choose Realm or SQLite with Room?](https://itnext.io/what-to-choose-realm-or-sqlite-with-room-e55c34b1675c?source=rss-a958e8ec15c0------2)
