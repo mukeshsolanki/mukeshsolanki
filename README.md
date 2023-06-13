@@ -16,11 +16,11 @@
 
 ## Latest Blog Posts <img src="https://c.tenor.com/lZE8tZGKLQ4AAAAi/saturn-v-space.gif" width="28"/>
 <!-- BLOG-POST-LIST:START -->
+- [How to make an OTP/Pin view in swift ui?](https://themukeshsolanki.medium.com/how-to-make-an-otp-pin-view-in-swift-ui-4395b9c9e5c8?source=rss-a958e8ec15c0------2)
 - [How does open-source help in getting a better programming job?](https://themukeshsolanki.medium.com/how-does-open-source-help-in-getting-a-better-programming-job-2400d5b32ac4?source=rss-a958e8ec15c0------2)
 - [Applying SOLID Principles in Android Development](https://themukeshsolanki.medium.com/applying-solid-principles-in-android-development-bf50402f1723?source=rss-a958e8ec15c0------2)
 - [Building a CI/CD pipeline for Android apps using GitHub actions.](https://blog.ssup.co/building-a-ci-cd-pipeline-for-android-apps-using-github-actions-f0fbf537c7a9?source=rss-a958e8ec15c0------2)
 - [We started Peer-Reviewing and there is no going back.](https://blog.ssup.co/we-started-peer-reviewing-and-there-is-no-going-back-2f44223a13b6?source=rss-a958e8ec15c0------2)
-- [Why I ended my 10 year old relationship with GSON?](https://blog.ssup.co/why-i-ended-my-10-year-old-relationship-with-gson-49fbdc3c2f27?source=rss-a958e8ec15c0------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Github Stats <img src="https://c.tenor.com/ZULdaf8iCHgAAAAi/100-discord.gif" width="28"/>
