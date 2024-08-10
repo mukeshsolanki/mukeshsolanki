@@ -15,11 +15,11 @@
 
 ## Latest Blog Posts <img src="https://c.tenor.com/lZE8tZGKLQ4AAAAi/saturn-v-space.gif" width="28"/>
 <!-- BLOG-POST-LIST:START -->
+- [Things I learnt leading a development team at an early-stage startup](https://themukeshsolanki.medium.com/things-i-learnt-leading-a-development-team-at-an-early-stage-startup-f5833a07ab19?source=rss-a958e8ec15c0------2)
+- [Jetpack Compose — The Future of Android Development](https://themukeshsolanki.medium.com/jetpack-compose-the-future-of-android-development-acf2ec318625?source=rss-a958e8ec15c0------2)
 - [Demystifying DataStore: A Comprehensive Guide to Using DataStore with Jetpack Compose](https://proandroiddev.com/demystifying-datastore-a-comprehensive-guide-to-using-datastore-with-jetpack-compose-d89c813232d7?source=rss-a958e8ec15c0------2)
 - [SwiftUI vs UIKit: Which One Should You Use for iOS Development?](https://themukeshsolanki.medium.com/swiftui-vs-uikit-which-one-should-you-use-for-ios-development-ebd50319e4f5?source=rss-a958e8ec15c0------2)
 - [How to make an OTP/Pin view in swift ui?](https://themukeshsolanki.medium.com/how-to-make-an-otp-pin-view-in-swift-ui-4395b9c9e5c8?source=rss-a958e8ec15c0------2)
-- [How does open-source help in getting a better programming job?](https://themukeshsolanki.medium.com/how-does-open-source-help-in-getting-a-better-programming-job-2400d5b32ac4?source=rss-a958e8ec15c0------2)
-- [Applying SOLID Principles in Android Development](https://themukeshsolanki.medium.com/applying-solid-principles-in-android-development-bf50402f1723?source=rss-a958e8ec15c0------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## Github Stats <img src="https://c.tenor.com/ZULdaf8iCHgAAAAi/100-discord.gif" width="28"/>
