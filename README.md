@@ -8,8 +8,8 @@
 
 ## About Me <img src="https://c.tenor.com/uZFq07-ujK8AAAAi/man-shrugging-joypixels.gif" width="28"/>
 * ⚡ Contribuing to a whole bunch of <a href="http://github.com/mukeshsolanki">opensource</a> projects.
-* 🖨️ I write tech articles almost every week on <a href="https://medium.com/@themukeshsolanki">Medium</a>. 
-* 🌱 Always experimenting with bleading edge tech. 
+* 🖨️ I write tech articles on <a href="https://medium.com/@themukeshsolanki">Medium</a>. 
+* 🌱 Always experimenting with bleeding edge tech. 
 * ⛰️ Love exploring and going on hikes
 <p align="center">
 
